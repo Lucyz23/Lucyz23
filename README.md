@@ -1,5 +1,5 @@
 Eu sou Luciana Magalhães Barbosa, conhecida por Lucy Magalhães.
-Sou Alun da Trybe e vou desenvolver alguns projetinhos que serão postados aqui.
+Sou Aluna da Trybe e vou desenvolver alguns projetinhos que serão postados aqui.
 Meu intuito é melhorar e ter experiência na área de Tecnologia. 
 
 <!---
